@@ -1,5 +1,5 @@
 ### Hey there 👋
-
+- - -
 I'm Saïd and I currently study Software Development at the University of Applied Sciences in Utrecht.
 
 ![](https://komarev.com/ghpvc/?username=Bosshi&color=blueviolet)
